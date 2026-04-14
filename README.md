@@ -2,7 +2,7 @@
 
 Implementation of the algorithm proposed in
 
-> **“Energy-Efficient Multi-UAV Cooperative Localization with Sequential Optimization of Communication and Fusion Topologies.”**  
+> **“Energy-Efficient Multi-UAV Cooperative Localization with Sequential Optimization of Communication Graph.”**  
 > * *
 
 The repository contains **all source code (pure MATLAB)** *plus* the complete set of simulation data and reference results used in the paper.
