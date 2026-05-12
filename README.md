@@ -47,7 +47,7 @@ The repository contains **all source code (pure MATLAB)** *plus* the complete se
 1. **Clone and fetch files**
 
    ```bash
-   git clone https://github.com/YourUser/Hierarchical-off-line-optimization.git
+   git clone https://github.com/GNC-SJTU/Hierarchical-off-line-optimization.git
    cd Hierarchical-off-line-optimization
 
 2. **Open MATLAB R2022b and load main.m**
